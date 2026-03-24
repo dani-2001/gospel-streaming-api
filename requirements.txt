@@ -1,0 +1,12 @@
+Django>=3.2
+Django-REST-framework>=3.12
+djangorestframework-jwt>=1.11.0
+mysqlclient>=2.0
+
+# Other common dependencies
+python-decouple>=3.5
+requests>=2.26.0
+
+# Local development
+pytest>=6.2
+pytest-django>=4.4
